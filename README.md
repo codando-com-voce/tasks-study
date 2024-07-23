@@ -7,6 +7,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Solicitação
+Prezado Heuder,
+
+Espero que este e-mail o encontre bem.
+
+Gostaria de solicitar um orçamento para o desenvolvimento de uma API de tarefas com os seguintes requisitos:
+
+Autenticação de Usuário: Implementar um sistema de autenticação para garantir que apenas usuários autenticados possam acessar a API.
+CRUD Completo das Tarefas: Implementar funcionalidades completas de CRUD (Criar, Ler, Atualizar e Excluir) para as tarefas.
+Controle de Acesso: Garantir que cada usuário possa visualizar e manipular somente as tarefas às quais ele pertence.
+
+Agradeço antecipadamente pela sua atenção e fico no aguardo de sua proposta.
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
